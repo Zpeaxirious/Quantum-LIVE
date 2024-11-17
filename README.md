@@ -1,7 +1,7 @@
 # Quantum LIVE: Live Your Best Reality
 
 ## Game Concept
-Quantum LIVE is an interactive, choose-your-own-adventure style game that invites you to engage with your surroundings like never before. With a vast world at your fingertips, the possibilities are endless!  
+Quantum LIVE is an interactive, bean type game that invites you to engage with your surroundings like never before. With a vast world at your fingertips, the possibilities are endless!  
 
 ## Key Features
 Real-world gameplay : Explore your environment and interact with it in creative ways.  
